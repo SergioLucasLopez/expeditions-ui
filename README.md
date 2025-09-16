@@ -39,7 +39,6 @@ El objetivo es que el operario haga **lo mínimo posible**:
 Por defecto apunto al backend en `http://localhost:8080`.  
 En `App.jsx` tengo:
 
-```js
 const API = "http://localhost:8080";
 
 CÓMO EJECUTAR EL PROYECTO
