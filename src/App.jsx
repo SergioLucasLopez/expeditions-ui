@@ -18,7 +18,7 @@ export default function App() {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const data = await res.json();
         setOrders(data);
-        // Selecciona la primera orden por defecto
+        // Seleccionamos la primera orden por defecto
         if (data.length) setOrderId(String(data[0].id));
       } catch {
         setError("No se pudieron cargar las órdenes.");
@@ -123,7 +123,7 @@ const styles = {
     flexDirection: "column",
     justifyContent: "center",
     alignItems: "center",
-    background: "#8b1c55", // fondo morado
+    background: "#8b1c55",
     padding: 20,
   },
   title: {
