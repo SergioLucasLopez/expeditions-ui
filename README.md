@@ -4,7 +4,7 @@ Interfaz web **tipo PDA** para carretilleros. Permite **seleccionar una orden de
 
 ---
 
-## 🧠 Lógica detrás del código
+## Lógica detrás del código
 
 El objetivo es que el operario haga **lo mínimo posible**:
 
@@ -20,7 +20,7 @@ El objetivo es que el operario haga **lo mínimo posible**:
 
 ---
 
-## 📂 Estructura del código
+## Estructura del código
 <img width="443" height="839" alt="image" src="https://github.com/user-attachments/assets/500111b6-f5be-40b2-a54d-26ced42bcbd0" />
 
 
